@@ -1,0 +1,8 @@
+template-materials/node_modules
+template-materials/build
+template-materials/es
+template-materials/lib
+
+
+template-project/node_modules
+template-project/build
