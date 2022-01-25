@@ -1,5 +1,5 @@
 import React from 'react';
-import from './index.scss';
+import './index.scss';
 
 function FileName() {
   return <div>FileName</div>
