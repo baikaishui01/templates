@@ -8,7 +8,7 @@ order: 9
 ```jsx
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import {FileName} from 'white-my-materials';
+import {FileName} from 'packageName';
 
 class App extends Component {
   render() {
